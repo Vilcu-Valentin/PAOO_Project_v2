@@ -14,9 +14,3 @@ A small **command-line RPG** featuring:
 The gameplay loop is simple but satisfying — grind quests, open chests, equip items, repeat!
 
 ---
-
-## How to Run
-1. Download the latest release from [Releases](../../releases)
-2. Run the jar in your console:
-   ```bash
-   java -jar PAOO-Project-2.0.jar
