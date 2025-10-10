@@ -12,5 +12,3 @@ A small **command-line RPG** featuring:
 - **Leveling up** to tackle harder challenges  
 
 The gameplay loop is simple but satisfying — grind quests, open chests, equip items, repeat!
-
----
